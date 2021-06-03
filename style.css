@@ -1,0 +1,101 @@
+* {
+	font-family: "微軟正黑體";
+}
+
+html,body{
+	height:1000px;
+	padding:0px;
+	margin:0px;
+}
+
+nav.navbar{
+	padding:0px;
+	color:#e6e7e9;
+}
+
+
+.nav-link svg{
+	margin-bottom:5px;
+}
+
+.top_text a{
+	font-size:14px;
+	margin-left:auto;
+}
+
+.color{
+	border: solid 1px black;
+	position:relative;
+	
+}
+.cake_top_2{
+	background-color: #eeebec;
+	padding:50px 30px 30px 0px
+}
+.cake_top_1{
+	background-color: #eeebec;
+}
+
+.cake_top_1 img{
+	padding:40px 0px 10px 30px;
+	width:60%;
+	top:80px;
+}
+.cake img{
+	width:80%;
+}
+
+.cake_text h3{
+	padding:10px 0px 10px 0px;
+	font-weight:200px;
+}
+.cake_text{
+	background-color: #eeebec;
+	align-items:center;
+	margin-left: auto;
+}
+.cake_text img{
+	transform:scale(0.5);
+}
+.cake_text .text{
+	padding:50px 50px 0px 50px;
+	margin:0px;
+}
+.cake_text .row{
+	margin-bottom:0px;
+}
+.cake_down_2_1{
+	margin-top:0px;
+	padding:20px;
+	color:white;
+	background-color: #c8c10d;
+}
+.cake_down_2_1 .nav-item{
+	padding:20px 60px 10px 60px;
+	margin:0px 20px 0px 20px;
+	text-align:center;
+}
+.cake_down_2_1 h5{
+	padding-top:10px;
+	position:relative;
+	text-align:center;
+}
+
+.cake_down_2_2{
+	background-color: #cb3362;
+	text-align:center;
+	padding:60px 60px 100px 60px;
+	color:white;
+}
+
+.cake_down_2_2 svg{
+	margin:15px;
+}
+.cake_down_2_2 hr{
+	color:white;
+	width:400px;
+	margin-left:auto;
+	margin-right:auto;
+	magin-top:0px;
+	border:solid 1px white;
+}
